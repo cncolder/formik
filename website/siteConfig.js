@@ -168,7 +168,7 @@ const users = [
 const siteConfig = {
   title: 'Formik', // Title for your website.
   tagline: `Build forms in React, without tears.`,
-  url: 'https://jaredpalmer.com', // Your website URL
+  url: 'https://cncolder.github.io/formik', // Your website URL
   baseUrl: '/formik/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
@@ -176,18 +176,18 @@ const siteConfig = {
 
   // Used for publishing and more
   projectName: 'formik',
-  organizationName: 'jaredpalmer',
+  organizationName: 'cncolder',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
-  editUrl: 'https://github.com/jaredpalmer/formik/edit/master/docs/',
+  editUrl: 'https://github.com/cncolder/formik/edit/master/docs/',
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     { doc: 'overview', label: 'Docs' },
     { page: 'users', label: 'Users' },
     { page: 'help', label: 'Help' },
     {
-      href: 'https://github.com/jaredpalmer/formik',
+      href: 'https://github.com/cncolder/formik',
       label: 'GitHub',
     },
     // { blog: true, label: 'Blog' },
@@ -259,7 +259,7 @@ const siteConfig = {
   },
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-  repoUrl: 'https://github.com/jaredpalmer/formik',
+  repoUrl: 'https://github.com/cncolder/formik',
   scrollToTop: true,
   scrollToTopOptions: {
     zIndex: 100,
@@ -268,7 +268,7 @@ const siteConfig = {
   enableUpdateBy: true,
   gaTrackingId: 'UA-55176740-4',
   twitter: true,
-  twitterUsername: 'jaredpalmer',
+  twitterUsername: 'cncolder',
 };
 
 module.exports = siteConfig;
